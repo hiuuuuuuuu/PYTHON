@@ -21,6 +21,7 @@ Job Postings by Technology
 - save data into the .csv file [popular-language.csv](https://github.com/hiuuuuuuuu/PYTHON/blob/main/popular-language.csv)
 
 ## Explore the dataset
+[ExploreDataSet-lab.ipynb](https://github.com/hiuuuuuuuu/PYTHON/blob/main/M1ExploreDataSet-lab.ipynb)
 - Load the dataset
 - Explore the data set
 - Find out the number of rows and columns
