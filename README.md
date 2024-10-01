@@ -18,4 +18,4 @@ Job Postings by Technology
 - import the required libraries BeautifulSoup, request, csv
 - create a soup object
 - find a table and extract data
-- save data into the .csv file (popular-language.csv)
+- save data into the .csv file [popular-language.csv](https://github.com/hiuuuuuuuu/PYTHON/blob/main/popular-language.csv)
