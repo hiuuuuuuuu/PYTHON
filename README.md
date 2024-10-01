@@ -19,3 +19,9 @@ Job Postings by Technology
 - create a soup object
 - find a table and extract data
 - save data into the .csv file [popular-language.csv](https://github.com/hiuuuuuuuu/PYTHON/blob/main/popular-language.csv)
+
+## Explore the dataset
+- Load the dataset
+- Explore the data set
+- Find out the number of rows and columns
+- Identify the data types of each column
