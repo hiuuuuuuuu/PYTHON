@@ -34,4 +34,15 @@ Job Postings by Technology
 - Impute the missing values in the dataset
 - Normalize data in the dataset
 
+## 3. Exploratory Data Analysis (EDA)
+- Identify the distribution of data in the dataset
+- Identify outliers in the dataset
+- Remove outliers from the dataset
+- Identify correlation between features in the dataset
+
+
+
+
+
+
 
