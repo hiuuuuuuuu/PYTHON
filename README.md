@@ -27,6 +27,7 @@ Job Postings by Technology
 - Identify the data types of each column
 
 ## 2. Data Wrangling
+[DataWrangling-lab.ipynb](https://github.com/hiuuuuuuuu/PYTHON/blob/main/M2DataWrangling-lab.ipynb)
 - Identify Duplicate values in the dataset
 - Remove Duplicate values from the dataset
 - Identify missing values in the dataset
