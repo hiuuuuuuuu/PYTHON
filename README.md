@@ -25,3 +25,12 @@ Job Postings by Technology
 - Explore the data set
 - Find out the number of rows and columns
 - Identify the data types of each column
+
+## 2. Data Wrangling
+- Identify Duplicate values in the dataset
+- Remove Duplicate values from the dataset
+- Identify missing values in the dataset
+- Impute the missing values in the dataset
+- Normalize data in the dataset
+
+
