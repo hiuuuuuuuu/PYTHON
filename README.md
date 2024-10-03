@@ -35,6 +35,7 @@ Job Postings by Technology
 - Normalize data in the dataset
 
 ## 3. Exploratory Data Analysis (EDA)
+[ExploratoryDataAnalysis-lab.ipynb](https://github.com/hiuuuuuuuu/PYTHON/blob/main/M3ExploratoryDataAnalysis-lab.ipynb)
 - Identify the distribution of data in the dataset
 - Identify outliers in the dataset
 - Remove outliers from the dataset
