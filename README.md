@@ -42,6 +42,8 @@ Job Postings by Technology
 - Identify correlation between features in the dataset
 
 ## 4. Data Visualization
+[DataVisualization-lab.ipynb](https://github.com/hiuuuuuuuu/PYTHON/blob/main/M4DataVisualization-lab.ipynb)
+
 Visualize the distribution of data.
 
 Visualize the relationship between two features.
