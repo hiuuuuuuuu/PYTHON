@@ -41,6 +41,14 @@ Job Postings by Technology
 - Remove outliers from the dataset
 - Identify correlation between features in the dataset
 
+## 4. Data Visualization
+Visualize the distribution of data.
+
+Visualize the relationship between two features.
+
+Visualize composition of data.
+
+Visualize comparison of data.
 
 
 
