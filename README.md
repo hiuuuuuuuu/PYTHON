@@ -52,6 +52,9 @@ Visualize composition of data.
 
 Visualize comparison of data.
 
+## 5. Report
+[Findings-Report-Presentation.pdf](https://github.com/hiuuuuuuuu/PYTHON/blob/main/Findings-Report-Presentation.pdf)
+
 
 
 
